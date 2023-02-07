@@ -1,0 +1,4 @@
+langkah-langkah:
+1.letakan folder di C:\xampp\htdocs\Api_php
+2.create db dan import db mysql
+3.buka postman atau browser untuk mencobanya
